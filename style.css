@@ -131,7 +131,7 @@ hr {
   display: inline-block;
   width: 18px;
   height: 18px;
-  background-image: url(/images/sns-instagram.png);
+  background-image: url(sns-instagram.png);
   background-size: contain;
   vertical-align: middle;
 }
@@ -140,7 +140,7 @@ hr {
   display: inline-block;
   width: 18px;
   height: 18px;
-  background-image: url(/images/sns-twitter.png);
+  background-image: url(sns-twitter.png);
   background-size: contain;
   vertical-align: middle;
 }
@@ -149,7 +149,7 @@ hr {
   display: inline-block;
   width: 18px;
   height: 18px;
-  background-image: url(/images/sns-tel.png);
+  background-image: url(sns-tel.png);
   background-size: contain;
   vertical-align: middle;
 }
